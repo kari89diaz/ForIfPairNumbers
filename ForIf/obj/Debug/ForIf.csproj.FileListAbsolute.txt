@@ -1,0 +1,6 @@
+C:\C# Tutorials\Practice\ForIf\ForIf\ForIf\obj\Debug\ForIf.csproj.CoreCompileInputs.cache
+C:\C# Tutorials\Practice\ForIf\ForIf\ForIf\bin\Debug\ForIf.exe.config
+C:\C# Tutorials\Practice\ForIf\ForIf\ForIf\bin\Debug\ForIf.exe
+C:\C# Tutorials\Practice\ForIf\ForIf\ForIf\bin\Debug\ForIf.pdb
+C:\C# Tutorials\Practice\ForIf\ForIf\ForIf\obj\Debug\ForIf.exe
+C:\C# Tutorials\Practice\ForIf\ForIf\ForIf\obj\Debug\ForIf.pdb
